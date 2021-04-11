@@ -1,0 +1,72 @@
+###########################################################
+
+
+#Configuração de utilizades do LGuerreiro
+#Desenvolvido por github.com/ILighttz
+
+#Variaveis:
+# %p (Membros participantes do evento)
+# %vencedor (Vencedor do evento)
+# %premio (Premiação do evento)
+# %t (Tempo restante para o inicio)
+
+#Informações de localidades
+
+entrada_evento:
+  x:
+  y:
+  z:
+  world: ''
+
+saida_evento:
+  x:
+  y:
+  z:
+  world: ''
+
+#Premiação
+
+premio: 100000                                #Valor da premiação (1000 -> 1k, 100000 -> 100k e etc)
+ultimo_vencedor: 'ILighttz'
+
+#Configuração de mensagens
+
+tempo_de_entrada: 180                      #Colocar em segundos (60s, 120s, 180s e etc)
+
+avisos_por_minuto: 1                        #Definir a quantidade de avisos por minuto (2 avisos = 30s para cada aviso, 4 avisos = 15s para cada aviso)
+
+mensagem_de_entrada:
+  - ''
+  - ''
+  - ''
+
+mensagem_de_finalizacao:
+  - ''
+  - ''
+  - ''
+
+mensagem_de_cancelamentostaff:
+  - '&cadsadas %premio '
+  - 'adsaasa'
+  - ''
+
+mensagem_de_cancelamentoplayers:
+  - ''
+  - ''
+  - ''
+
+mensagem_evento_iniciado:
+  - ''
+  - ''
+  - ''
+
+mensagem_mortegeral:
+  - ''
+  - ''
+  - ''
+
+mensagem_matou: ''
+
+mensagem_morreu: ''
+
+###########################################################

@@ -1,0 +1,7 @@
+main: net.ilighttz.plugins.Main
+name: LGuerreiro
+version: 1.0.0
+author: github.com/ILighttz
+commands:
+  guerreiro:
+    description: Acesso a todos os comandos do plugin
